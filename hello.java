@@ -3,7 +3,6 @@ public class Hello{
 		System.out.println("hello,ketty!");
 		System.out.println("hello,jack!");
 		System.out.println("hello,petter!");
-		System.out.println("hello,tom!");
 		num();
 	}
 
