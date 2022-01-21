@@ -5,7 +5,7 @@ public class ello{
 		System.out.println("hello,petter!");
 		System.out.println("hello,tom!");
 		num(1,2);
-		printString("hello,word!");
+		printString("hello,word!","you are batch!!!");
 	}
 
 	public static void num(int a;int b){
